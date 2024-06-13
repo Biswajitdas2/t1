@@ -1,0 +1,25 @@
+#logo{
+    color: green;
+    font-family: cursive;
+    font-weight: bold;
+}
+.start{
+    height: 40px;
+    border: none;
+    border-radius: 10px;
+    background-color: greenyellow;
+    width: 150px;
+    margin-top: 10px;
+}
+.card{
+    border-radius: 20px;
+}
+.card a{
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+}
+.card-body{
+    background-color: honeydew;
+}
